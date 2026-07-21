@@ -10,7 +10,9 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.3.3",
+    "gsap": "^3.15.0",
     "tailwindcss": "^4.3.3",
+    "typicons.font": "^2.1.2",
     "vue": "^3.5.39"
   },
   "devDependencies": {
