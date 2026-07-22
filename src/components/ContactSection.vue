@@ -19,7 +19,7 @@
       </div>
       <div class="flex flex-col items-center text-center">
         <p class="font-general text-[10px] uppercase">Join Zentry</p>
-        <p class="special-font mt-10 w-full font-zentry text-5xl leading-[0.9] md:text-[6rem]">
+        <p class="special-font mt-10 w-full font-zentry text-5xl leading-[0.9] md:text-[6rem] z-50 mix-blend-difference">
           Let's b<b>u</b>ild the <br /> new era of <br /> g<b>a</b>ming t<b>o</b>gether
         </p>
         <MainButton title="contact us" container-class="mt-10 cursor-pointer hover:bg-yellow-300 duration-500 ease-in-out transition-all hover:scale-105" />
