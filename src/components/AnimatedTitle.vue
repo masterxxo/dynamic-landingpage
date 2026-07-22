@@ -1,7 +1,6 @@
 <template>
   <div
     ref="containerRef"
-    id="title-container"
     class="animated-title"
     :class="containerClass"
   >
