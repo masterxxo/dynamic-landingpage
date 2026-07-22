@@ -2,6 +2,7 @@
 import HeroSection from './components/HeroSection.vue';
 import AboutSection from './components/AboutSection.vue';
 import NavigationBar from './components/NavigationBar.vue';
+import FeaturesSection from './components/FeaturesSection.vue';
 </script>
 
 <template>
@@ -9,5 +10,6 @@ import NavigationBar from './components/NavigationBar.vue';
     <NavigationBar />
     <HeroSection />
     <AboutSection />
+    <FeaturesSection />
   </main>
 </template>
