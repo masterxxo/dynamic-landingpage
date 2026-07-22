@@ -59,7 +59,7 @@
             id="watch-trailer"
             title="Watch trailer"
             left-icon="typcn-location-arrow"
-            container-class="bg-yellow-300 flex-center gap-1"
+            container-class="bg-yellow-300 flex-center gap-1 hover:bg-blue-50 duration-500 ease-in-out transition-all hover:scale-105"
           />
         </div>
       </div>

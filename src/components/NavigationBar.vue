@@ -11,7 +11,7 @@
             id="product-button"
             title="Product"
             right-icon="typcn-location-arrow"
-            container-class="bg-blue-50 md:flex hidden items-center justify-center gap-1"
+            container-class="bg-blue-50 md:flex hidden items-center justify-center gap-1 hover:bg-yellow-300 duration-500 ease-in-out transition-all hover:scale-105"
           />
         </div>
         <div class="flex h-full items-center">

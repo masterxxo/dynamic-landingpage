@@ -59,7 +59,7 @@
           <MainButton
             id="realm-button"
             title="discover prologue"
-            container-class="mt-5"
+            container-class="mt-5 hover:bg-yellow-300 duration-500 ease-in-out transition-all hover:scale-105"
           />
         </div>
       </div>
