@@ -91,7 +91,6 @@ const upcomingVideoIndex = computed(() => {
 );
 
 const isLoading = computed(() => {
-  console.log(loadedVideos.value)
   return loadedVideos.value !== totalVideos -1;
 })
 
